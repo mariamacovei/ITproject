@@ -1,4 +1,4 @@
 package com.company.lambda;
 
-public class testgit {
+public class TestforTIDPP {
 }
